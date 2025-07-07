@@ -37,10 +37,6 @@ npm install
 # Start the development server
 npm run dev
 
-## Screenshots
-### 🖥️ Desktop View
-![desktop screenshot] ("C:\Users\Lenovo\Downloads\portfolio_laptop_ss.png")
-
 ## About Me
 I’m an aspiring web developer with a background in Electronics and Communication Engineering, currently transitioning into the IT sector. I enjoy building interactive UIs, experimenting with 3D web, and learning modern tools of the trade.
 
